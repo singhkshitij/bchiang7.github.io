@@ -1,20 +1,21 @@
 languages:
+  - item: Android (Native, Flutter)
+  - item: Docker , Kubernetes
+  - item: Shell scripting (Linux)
+  - item: SQL (MySQL, Postgres)
+  - item: NoSQL (Firebase)
+  - item: Cache (Redis)
+  - item: Clojure
   - item: JavaScript (ES6)
-  - item: TypeScript
+  - item: React
+  - item: Golang
+  - item: Java
   - item: HTML
-  - item: CSS/Sass
-  - item: Python
-  - item: SQL
-  - item: R
+  - item: CSS
 
 frameworks:
-  - item: Ember & Glimmer
   - item: React
-  - item: Jekyll
-  - item: Node
-  - item: D3
   - item: Wordpress
-  - item: Timber
 
 tools:
   - item: Bash
@@ -22,12 +23,13 @@ tools:
   - item: Gulp & Grunt
   - item: Chrome DevTools
   - item: Postman
-  - item: MongoDB
 
-design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+books:
+  - item: Clean code by Uncle bob
+  - item: The Pragmatic Programmer
+  - item: Think & Grow Rich
+  - item: Rich dad poor dad
+  - item: Atomic habbits
+  - item: Deep work
+  - item: Ikigai
+

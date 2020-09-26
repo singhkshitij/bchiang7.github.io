@@ -1,3 +1,11 @@
+- name: MyTrashCode
+  url: https://mytrashcode.com
+  code: https://mytrashcode.com
+  description: My tutorial blog, where i blog random tutorials to ~6000 monthly readers about stuff that i know. 
+  used:
+    - thing: Wordpress
+    - thing: Blog
+
 - name: Namelss
   url: https://namelss.com
   code: https://github.com/singhkshitij/nameless-ui
@@ -11,6 +19,17 @@
     - thing: Google cloud
     - thing: Postgres
     - thing: PWA
+
+- name: MagicPrint ECommerce Android App
+  url: https://github.com/singhkshitij/MagicPrint-ECommerce-App-Android
+  code: https://github.com/singhkshitij/MagicPrint-ECommerce-App-Android
+  description: E-Commerce App Source Code for Android with Material Design Pattern Using Firebase and MySQL with Android Lottie Animations just like Flipkart, Myntra and Amazon :)   
+  used:
+    - thing: Android
+    - thing: MySQL
+    - thing: Lottie Animations
+    - thing: Firebase
+    - thing: Auth
 
 - name: My Landing Page
   url: https://singhkshitij.github.io/My-Landing-Page/
@@ -31,3 +50,12 @@
     - thing: React Router
     - thing: Firebase
     - thing: Auth
+
+- name: Chootu
+  url: https://chootu.netlify.app/
+  code: https://github.com/singhkshitij/Chootu-Frontend
+  description: Url shortener PWA Enabled frontend build with ReactJs + ParticleJS + Material UI, bootstrapped with create-react-app.  
+  used:
+    - thing: JavaScript
+    - thing: React
+    - thing: Golang
