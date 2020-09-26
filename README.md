@@ -1,6 +1,6 @@
 # My Portfolio page
 
-Portfolio page live at : <a href="https://kshitij.mytrashcode.com">kshitij.mytrashcode.com</a>
+Portfolio page live at : <a href="https://mytrashcode.com/kshitij/">https://mytrashcode.com/kshitij/</a>
 
 Theme Forked from : <a href="https://github.com/bchiang7/bchiang7.github.io" target="_blank">bchiang7</a>
 
