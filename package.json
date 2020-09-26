@@ -1,18 +1,18 @@
 {
-  "name": "brittanychiang.com",
+  "name": "kshitij.mytrashcode.com",
   "version": "0.0.0",
-  "description": "Design-minded front-end software engineer focused on building beautiful interfaces and experiences",
+  "description": "Full stack software developer",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/bchiang7.github.io"
+    "url": "https://mytrashcode.com/kshitij/"
   },
-  "homepage": "https://github.com/bchiang7/bchiang7.github.io",
+  "homepage": "/kshitij/",
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp serve --watch",
     "build": "gulp build"
   },
-  "author": "Brittany Chiang",
+  "author": "Kshitij Singh",
   "license": "ISC",
   "devDependencies": {
     "@nuscout/eslint-config": "^0.2.1",
